@@ -1,0 +1,7 @@
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos temporários
+*.log
+*.tmp
